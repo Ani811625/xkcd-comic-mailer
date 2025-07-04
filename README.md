@@ -36,7 +36,7 @@ This project was inspired by the rtCamp Associate Software Engineer assignment a
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/xkcd-comic-mailer
+   git clone https://github.com/Ani811625/xkcd-comic-mailer
    cd xkcd-comic-mailer/src
    ```
 
